@@ -2,6 +2,8 @@ Tiramisu
 
 Menu Class: Dessert
 
+Recipe by: Lynn Nguyen
+
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder.
 
